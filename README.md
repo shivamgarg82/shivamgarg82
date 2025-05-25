@@ -22,18 +22,15 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamgarg82&theme=dark)
 
 ### 📌 Pinned Repositories
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Temperature-Calculator&theme=dark)](https://github.com/shivamgarg82/Temperature-Calculator)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Age-calculator&theme=dark)](https://github.com/shivamgarg82/Age-calculator)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Temperature-Converter&theme=dark)](https://github.com/shivamgarg82/Temperature-Converter)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Age-Calculator&theme=dark)](https://github.com/shivamgarg82/Age-Calculator)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Weather-App&theme=dark)](https://github.com/shivamgarg82/Weather-App)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=TransformElement&theme=dark)](https://github.com/shivamgarg82/TransformElement)
 
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-garg-474739317/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Github](https://img.shields.io/badge/Github-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://github.com/shivamgarg82)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=react&logoColor=white)](https://shivamgarg82.github.io/Portfolio/)
-
----
-
-⭐ **Thanks for visiting!** 😊
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/your-gif.gif" width="400" />
@@ -42,3 +39,8 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shivamgarg82.shivamgarg82)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=shivamgarg82&theme=onedark)
+
+
+⭐ **Thanks for visiting!** 😊
+
+
