@@ -4,7 +4,7 @@
 - 💻 **Full-Stack Developer** | **Open-Source Contributor**
 - 🔭 Currently working on **Web Development & AI Projects**
 - 🌱 Learning **React, Node.js, Machine Learning**
-- 📫 Reach me: **shivamgarg82@example.com** (replace with your email)
+- 📫 Reach me: **ngarg82871@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun Fact: **I love automating boring tasks!**
 
@@ -22,13 +22,13 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamgarg82&theme=dark)
 
 ### 📌 Pinned Repositories
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=your-repo&theme=dark)](https://github.com/shivamgarg82/your-repo)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=another-repo&theme=dark)](https://github.com/shivamgarg82/another-repo)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Temperature-Calculator&theme=dark)](https://github.com/shivamgarg82/Temperature-Calculator)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Age-calculator&theme=dark)](https://github.com/shivamgarg82/Age-calculator)
 
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-garg-474739317/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=react&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=react&logoColor=white)](https://shivamgarg82.github.io/Portfolio/)
 
 ---
 
