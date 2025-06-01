@@ -22,8 +22,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamgarg82&theme=dark)
 
 ### 📌 Pinned Repositories
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Temperature-Converter&theme=dark)](https://github.com/shivamgarg82/Temperature-Converter)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Age-Calculator&theme=dark)](https://github.com/shivamgarg82/Age-Calculator)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Weather-App-Python&theme=dark)](https://github.com/shivamgarg82/Weather-App_Python)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Covid-19-Tracker&theme=dark)](https://github.com/shivamgarg82/Covid-19-Tracker)
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Weather-App&theme=dark)](https://github.com/shivamgarg82/Weather-App)
 [![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=TransformElement&theme=dark)](https://github.com/shivamgarg82/TransformElement)
 
