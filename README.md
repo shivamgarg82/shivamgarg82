@@ -21,6 +21,7 @@
 ### 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamgarg82&theme=light)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shivamgarg82)](https://git.io/streak-stats)
 
 ### 📌 Pinned Repositories
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Weather-App-Python&theme=dark)](https://github.com/shivamgarg82/Weather-App_Python)
