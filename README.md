@@ -20,7 +20,7 @@
 
 ### 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamgarg82&theme=light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamgarg82&theme=skyblue)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shivamgarg82)](https://git.io/streak-stats)
 
 ### 📌 Pinned Repositories
