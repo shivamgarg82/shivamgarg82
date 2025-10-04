@@ -24,9 +24,9 @@
 
 ### 📌 Pinned Repositories
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=REACT-PORTFOLIO&theme=dark)](https://github.com/shivamgarg82/REACT-PORTFOLIO)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Covid-19-Tracker&theme=dark)](https://github.com/shivamgarg82/Covid-19-Tracker)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Weather-App&theme=dark)](https://github.com/shivamgarg82/Weather-App)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=TransformElement&theme=dark)](https://github.com/shivamgarg82/TransformElement)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Temperature-Converter&theme=dark)](https://github.com/shivamgarg82/Temperature-Converter)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Age-Calculator&theme=dark)](https://github.com/shivamgarg82/Age-Calculator)
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=shivamgarg82&repo=Weather-App&theme=dark)](https://github.com/shivamgarg82/Weather-App)
 
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-garg-474739317/)
